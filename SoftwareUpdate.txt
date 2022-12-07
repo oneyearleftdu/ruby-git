@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix IS_PYTHON_3_12 bug (#9258)
