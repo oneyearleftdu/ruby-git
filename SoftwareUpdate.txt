@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
