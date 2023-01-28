@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
