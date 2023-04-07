@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
