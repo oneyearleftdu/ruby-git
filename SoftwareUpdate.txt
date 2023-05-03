@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Compare plt.get_backend() in lowercase (#8409)
