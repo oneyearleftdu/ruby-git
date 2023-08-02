@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
