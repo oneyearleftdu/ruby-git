@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add docs guide terminal images (#8819)
