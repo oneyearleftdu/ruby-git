@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
