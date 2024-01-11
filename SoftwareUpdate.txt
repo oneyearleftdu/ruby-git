@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix PNNX ubuntu -> linux bug (#7050)
